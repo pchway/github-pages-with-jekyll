@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I plan to talk about cats.
+
+Cats are the kings and queens of the house. Nothing escapes their notice. :cat:
